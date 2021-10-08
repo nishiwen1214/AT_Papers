@@ -4,11 +4,11 @@
 ![](https://img.shields.io/github/last-commit/thunlp/PromptPapers?color=green) ![](https://img.shields.io/badge/PaperNumber-37-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
-Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni](https://github.com/nishiwen1214/)
+Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni].(https://github.com/nishiwen1214/)
 
 ## Contents
 
-- [Adversarial training papers](#Adversarial training papers)
+- [Adversarial training papers](#Adversarial-training-papers)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Papers](#papers)
@@ -16,7 +16,6 @@ Must-read papers on Adversarial training for neural network models. The paper li
     - [Prompt Designing](#prompt-designing)
     - [Prompt Analysis](#prompt-analysis)
     - [Prompt Application](#prompt-application)
-  - [Other Contributors](#other-contributors)
 
 
 
@@ -193,7 +192,3 @@ This is a paper list about *Adversarial training* for neural network models.
 
 
 
-
-## Other Contributors
-
- We thank [Yujia Qin](https://github.com/thuqinyj16), [Xiachong Feng](https://github.com/xcfcode), [Chenglei Si](https://github.com/NoviScl) , [Tianbao Xie](https://github.com/Timothyxxx)for the paper recommendation. Pull requests and issues are welcomed!
