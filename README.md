@@ -4,11 +4,11 @@
 ![](https://img.shields.io/github/last-commit/thunlp/PromptPapers?color=green) ![](https://img.shields.io/badge/PaperNumber-37-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 
-Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni].(https://github.com/nishiwen1214/)
+Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni](https://github.com/nishiwen1214/).
 
 ## Contents
 
-- [Adversarial training papers](#Adversarial-training-papers)
+- [Adversarial training papers](#adversarial-training-papers)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Papers](#papers)
