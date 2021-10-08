@@ -1,15 +1,14 @@
-# PromptPapers
+# Adversarial training papers
 
 
 ![](https://img.shields.io/github/last-commit/thunlp/PromptPapers?color=green) ![](https://img.shields.io/badge/PaperNumber-37-brightgreen) ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
-Update: We have released an open-source prompt-learning toolkit, check out [OpenPrompt](https://github.com/thunlp/OpenPrompt)!
 
-Must-read papers on prompt-based tuning for pre-trained language models. The paper list is mainly mantained by [Ning Ding](https://github.com/ningding97) and [Shengding Hu](https://github.com/shengdinghu). 
+Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni](https://github.com/nishiwen1214/)
 
 ## Contents
 
-- [PromptPapers](#promptpapers)
+- [Adversarial training papers](#Adversarial training papers)
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Papers](#papers)
@@ -23,8 +22,7 @@ Must-read papers on prompt-based tuning for pre-trained language models. The pap
 
 ## Introduction
 
-This is a paper list about *prompt-based tuning* for large-scale pre-trained language models. Different from traditional fine-tuning that uses an explicit classifier, prompt-based tuning directly uses the pre-trained models to conduct the pre-training tasks for classification or regression. 
-
+This is a paper list about *Adversarial training* for neural network models.
 
 
 ## Papers
