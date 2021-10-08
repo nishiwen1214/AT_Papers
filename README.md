@@ -35,7 +35,7 @@ This is a paper list about *Adversarial training* for neural network models.
 
 ### Prompt Designing
 
-1. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.**  JMLR.  ![](https://img.shields.io/badge/Discrete-red) ![](https://img.shields.io/badge/Seq2seq-blue)
+1. **Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.**  JMLR.  ![](https://img.shields.io/badge/reglar) ![](https://img.shields.io/badge/Seq2seq-blue)
 
    *Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, Peter J. Liu.* [[pdf](https://arxiv.org/pdf/1910.10683.pdf)], [[project](https://github.com/google-research/text-to-text-transfer-transformer)], **(T5)**.  2019.10. 
 
