@@ -39,3 +39,6 @@ This is a paper list about *Adversarial training* for neural network models.
 
    *Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein* [[pdf](https://arxiv.org/pdf/1904.12843.pdf)], [[code](https://github.com/mahyarnajibi/FreeAdversarialTraining)], **(FreeAT)**.
 
+5. **You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle**, NeurIPS 2019.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/accelerate-blue) 
+
+   *Dinghuai Zhang, Tianyuan Zhang, Yiping Lu, Zhanxing Zhu, Bin Dong* [[pdf](https://arxiv.org/pdf/1905.00877.pdf)], [[code](https://github.com/mahyarnajibi/FreeAdversarialTraining)], **(YOPO)**.
