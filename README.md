@@ -1,7 +1,7 @@
 # Adversarial training papers
   
 ![](https://img.shields.io/github/stars/nishiwen1214/AT_Papers?style=flat-square)
-![](https://img.shields.io/badge/PaperNumber-16-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-17-brightgreen)
 
 
 Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni](https://github.com/nishiwen1214/).
@@ -17,7 +17,9 @@ Must-read papers on Adversarial training for neural network models. The paper li
 
 ## Introduction
 
-This is a paper list about **Adversarial training** for neural network models. Note that the [recommended papers](#recommended-papers) are those that I have read and found to be good.
+This is a paper list about **Adversarial training** for neural network models. Note that the [recommended papers](#recommended-papers) are those that I have read and found to be good. 
+
+⭐️ This list is constantly being updated！
 
 
 ## Papers
@@ -88,3 +90,7 @@ This is a paper list about **Adversarial training** for neural network models. N
  9. [**Adversarial Examples: Attacks and Defenses for Deep Learning**](https://ieeexplore.ieee.org/abstract/document/8611298)
 
     *Xiaoyong Yuan; Pan He; Qile Zhu; Xiaolin Li*, TNNLS 2019. 
+
+ 10. [**Reliably fast adversarial training via latent adversarial perturbation**](https://arxiv.org/pdf/2104.01575.pdf)
+
+    *Geon Yeong Park, Sang Wan Lee*, ICLR 2021.
