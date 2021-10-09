@@ -69,5 +69,8 @@ This is a paper list about **Adversarial training** for neural network models.
 
     *Yisen Wang, Xingjun Ma, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu*, IJCAI 2018.
     
+ 5. [**Rademacher Complexity for Adversarially Robust Generalization**](http://proceedings.mlr.press/v97/yin19b/yin19b.pdf)
+
+    *Dong Yin, Ramchandran Kannan, Peter Bartlett*, ICML 2019.
  
     
