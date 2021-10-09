@@ -17,7 +17,7 @@ Must-read papers on Adversarial training for neural network models. The paper li
 
 ## Introduction
 
-This is a paper list about *Adversarial training* for neural network models.
+This is a paper list about **Adversarial training** for neural network models.
 
 
 ## Papers
