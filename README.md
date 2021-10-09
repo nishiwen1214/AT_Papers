@@ -12,7 +12,7 @@ Must-read papers on Adversarial training for neural network models. The paper li
   - [Contents](#contents)
   - [Introduction](#introduction)
   - [Papers](#papers)
-
+    - [Recommended Papers](#recommended-papers)
 
 ## Introduction
 
@@ -21,6 +21,7 @@ This is a paper list about *Adversarial training* for neural network models.
 
 ## Papers
 
+### Recommended Papers
 
 1. **Explaining and Harnessing Adversarial Examples**, ICLR 2015.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Robustness-blue)
 
@@ -34,7 +35,7 @@ This is a paper list about *Adversarial training* for neural network models.
 
    *Anish Athalye, Nicholas Carlini, David Wagner* [[pdf](https://arxiv.org/pdf/1802.00420.pdf)], [[code](https://github.com/anishathalye/obfuscated-gradients)], **(PGD)**.
    
-4. **Adversarial Training for Free!**, ICML 2018.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Free-blue)
+4. **Adversarial Training for Free!**, NeurIPS 2019.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Free-blue)
 
    *Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein* [[pdf](https://arxiv.org/pdf/1904.12843.pdf)], [[code](https://github.com/mahyarnajibi/FreeAdversarialTraining)], **(FreeAT)**.
 
