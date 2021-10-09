@@ -93,4 +93,7 @@ This is a paper list about **Adversarial training** for neural network models. N
 
  10. [**Reliably fast adversarial training via latent adversarial perturbation**](https://arxiv.org/pdf/2104.01575.pdf)
 
-    *Geon Yeong Park, Sang Wan Lee*, ICLR 2021.
+     *Geon Yeong Park, Sang Wan Lee*, ICLR 2021.
+    
+    
+    
