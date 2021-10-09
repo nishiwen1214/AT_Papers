@@ -32,9 +32,9 @@ This is a paper list about *Adversarial training* for neural network models.
 
 3. **Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples**, ICML 2018.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Robustness-blue)
 
-   *Anish Athalye, Nicholas Carlini, David Wagner* [[pdf](https://arxiv.org/pdf/1605.07725.pdf)], [[code](https://github.com/tensorflow/models)], **(PGD)**.
+   *Anish Athalye, Nicholas Carlini, David Wagner* [[pdf](https://arxiv.org/pdf/1802.00420.pdf)], [[code](https://github.com/anishathalye/obfuscated-gradients)], **(PGD)**.
    
-4. 3. **Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples**, ICML 2018.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Robustness-blue)
+4. **Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples**, ICML 2018.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Robustness-blue)
 
    *Anish Athalye, Nicholas Carlini, David Wagner* [[pdf](https://arxiv.org/pdf/1605.07725.pdf)], [[code](https://github.com/tensorflow/models)], **(PGD)**.
 
