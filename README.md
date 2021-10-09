@@ -1,7 +1,7 @@
 # Adversarial training papers
   
 ![](https://img.shields.io/github/stars/nishiwen1214/AT_Papers?style=flat-square)
-![](https://img.shields.io/badge/PaperNumber-10-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-8-brightgreen)
 
 
 Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni](https://github.com/nishiwen1214/).
