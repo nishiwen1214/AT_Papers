@@ -85,3 +85,6 @@ This is a paper list about **Adversarial training** for neural network models.
 
     *Mislav Balunovic, Martin Vechev*, ICLR 2020. 
 
+ 9. [**Adversarial Examples: Attacks and Defenses for Deep Learning**](https://ieeexplore.ieee.org/abstract/document/8611298)
+
+    *Xiaoyong Yuan; Pan He; Qile Zhu; Xiaolin Li*, TNNLS 2019. 
