@@ -42,5 +42,9 @@ This is a paper list about **Adversarial training** for neural network models.
 
 5. **You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle**, NeurIPS 2019.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/accelerate-blue) 
 
-   *Dinghuai Zhang, Tianyuan Zhang, Yiping Lu, Zhanxing Zhu, Bin Dong* [[pdf](https://arxiv.org/pdf/1905.00877.pdf)], [[code](https://github.com/mahyarnajibi/FreeAdversarialTraining)], **(YOPO)**.
+   *Dinghuai Zhang, Tianyuan Zhang, Yiping Lu, Zhanxing Zhu, Bin Dong* [[pdf](https://arxiv.org/pdf/1905.00877.pdf)], [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)], **(YOPO)**.
+   
+6. **FreeLB: Enhanced Adversarial Training for Natural Language Understanding**, ICLR 2020.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/accelerate-blue) 
+
+   *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu* [[pdf](https://arxiv.org/pdf/1909.11764.pdf)], [[code](https://github.com/zhuchen03/FreeLB)], **(FreeLB)**.
 ### General Paper
