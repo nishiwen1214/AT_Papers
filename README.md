@@ -57,6 +57,6 @@ This is a paper list about **Adversarial training** for neural network models.
  1. [**What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors**](https://arxiv.org/pdf/2102.13624.pdf)
 
     *Jonas Geiping, Liam Fowl, Gowthami Somepalli, Micah Goldblum, Michael Moeller, Tom Goldstein*
- 2. [**Attacks Which Do Not Kill Training Make Adversarial Learning Stronger**], ICML 2020(https://arxiv.org/pdf/2002.11242.pdf)
+ 2. [**Attacks Which Do Not Kill Training Make Adversarial Learning Stronger**](https://arxiv.org/pdf/2002.11242.pdf)
 
-    *Jingfeng Zhang, Xilie Xu, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli*
+    *Jingfeng Zhang, Xilie Xu, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli*, ICML 2020.
