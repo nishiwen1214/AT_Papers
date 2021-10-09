@@ -47,4 +47,8 @@ This is a paper list about **Adversarial training** for neural network models.
 6. **FreeLB: Enhanced Adversarial Training for Natural Language Understanding**, ICLR 2020.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/accelerate-blue) 
 
    *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu* [[pdf](https://arxiv.org/pdf/1909.11764.pdf)], [[code](https://github.com/zhuchen03/FreeLB)], **(FreeLB)**.
+   
+ 7. **DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks**, ArXiv 2021.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/accelerate-blue) 
+
+   *Shiwen Ni, Jiawen Li, Hung-Yu Kao* [[pdf](https://arxiv.org/pdf/2108.12805.pdf)], [[code](https://github.com/nishiwen1214/dropattack)], **(DropAttack)**.  
 ### General Paper
