@@ -13,6 +13,7 @@ Must-read papers on Adversarial training for neural network models. The paper li
   - [Introduction](#introduction)
   - [Papers](#papers)
     - [Recommended Papers](#recommended-papers)
+    - [General Paper](#general-paper)
 
 ## Introduction
 
@@ -42,3 +43,4 @@ This is a paper list about *Adversarial training* for neural network models.
 5. **You Only Propagate Once: Accelerating Adversarial Training via Maximal Principle**, NeurIPS 2019.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/accelerate-blue) 
 
    *Dinghuai Zhang, Tianyuan Zhang, Yiping Lu, Zhanxing Zhu, Bin Dong* [[pdf](https://arxiv.org/pdf/1905.00877.pdf)], [[code](https://github.com/mahyarnajibi/FreeAdversarialTraining)], **(YOPO)**.
+### General Paper
