@@ -46,11 +46,11 @@ This is a paper list about **Adversarial training** for neural network models. N
 
    *Dinghuai Zhang, Tianyuan Zhang, Yiping Lu, Zhanxing Zhu, Bin Dong* [[pdf](https://arxiv.org/pdf/1905.00877.pdf)], [[code](https://github.com/a1600012888/YOPO-You-Only-Propagate-Once)], **(YOPO)**.
    
-6. **FreeLB: Enhanced Adversarial Training for Natural Language Understanding**, ICLR 2020.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Free-blue) ![](https://img.shields.io/badge/text-red)
+6. **FreeLB: Enhanced Adversarial Training for Natural Language Understanding**, ICLR 2020.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Free-blue) ![](https://img.shields.io/badge/Text-red)
 
    *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu* [[pdf](https://arxiv.org/pdf/1909.11764.pdf)], [[code](https://github.com/zhuchen03/FreeLB)], **(FreeLB)**.
    
- 7. **DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks**, ArXiv 2021.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Masked-blue) ![](https://img.shields.io/badge/text-red)
+ 7. **DropAttack: A Masked Weight Adversarial Training Method to Improve Generalization of Neural Networks**, ArXiv 2021.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Masked-blue) ![](https://img.shields.io/badge/Text-red)
     
     *Shiwen Ni, Jiawen Li, Hung-Yu Kao* [[pdf](https://arxiv.org/pdf/2108.12805.pdf)], [[code](https://github.com/nishiwen1214/dropattack)], **(DropAttack)**.  
    
