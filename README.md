@@ -53,3 +53,7 @@ This is a paper list about **Adversarial training** for neural network models.
     *Shiwen Ni, Jiawen Li, Hung-Yu Kao* [[pdf](https://arxiv.org/pdf/2108.12805.pdf)], [[code](https://github.com/nishiwen1214/dropattack)], **(DropAttack)**.  
    
 ### General Paper
+
+ 1. [**What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors**](https://arxiv.org/pdf/2102.13624.pdf)
+
+    *Jonas Geiping, Liam Fowl, Gowthami Somepalli, Micah Goldblum, Michael Moeller, Tom Goldstein*
