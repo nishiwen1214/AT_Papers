@@ -64,3 +64,10 @@ This is a paper list about **Adversarial training** for neural network models.
  3. [**On the Convergence and Robustness of Adversarial Training**](http://proceedings.mlr.press/v97/wang19i/wang19i.pdf)
 
     *Yisen Wang, Xingjun Ma, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu*, ICML 2019.
+    
+ 4. [**Curriculum Adversarial Training**](https://arxiv.org/pdf/1805.04807.pdf)
+
+    *Yisen Wang, Xingjun Ma, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu*, IJCAI 2018.
+    
+ 
+    
