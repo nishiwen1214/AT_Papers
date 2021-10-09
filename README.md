@@ -73,4 +73,15 @@ This is a paper list about **Adversarial training** for neural network models.
 
     *Dong Yin, Ramchandran Kannan, Peter Bartlett*, ICML 2019.
  
+ 6. [**Deep Defense: Training DNNs with Improved Adversarial Robustness**](https://arxiv.org/pdf/1803.00404.pdf)
+
+    *Ziang Yan, Yiwen Guo, Changshui Zhang*, NeurIPS 2018.  
+
+ 7. [**Single-Step Adversarial Training With Dropout Scheduling**](https://ieeexplore.ieee.org/abstract/document/9157154/authors#authors)
+
+    *B. S. Vivek; R. Venkatesh Babu*, CVPR 2020. 
     
+ 8. [**Adversarial Training and Provable Defenses: Bridging the Gap**](https://openreview.net/pdf?id=SJxSDxrKDr)
+
+    *Mislav Balunovic, Martin Vechev*, ICLR 2020. 
+
