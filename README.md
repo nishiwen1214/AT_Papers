@@ -34,7 +34,7 @@ This is a paper list about *Adversarial training* for neural network models.
 
    *Anish Athalye, Nicholas Carlini, David Wagner* [[pdf](https://arxiv.org/pdf/1802.00420.pdf)], [[code](https://github.com/anishathalye/obfuscated-gradients)], **(PGD)**.
    
-4. **Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples**, ICML 2018.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Robustness-blue)
+4. **Adversarial Training for Free!**, ICML 2018.  ![](https://img.shields.io/badge/Generalization-green) ![](https://img.shields.io/badge/Free-blue)
 
-   *Anish Athalye, Nicholas Carlini, David Wagner* [[pdf](https://arxiv.org/pdf/1605.07725.pdf)], [[code](https://github.com/tensorflow/models)], **(PGD)**.
+   *Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein* [[pdf](https://arxiv.org/pdf/1904.12843.pdf)], [[code](https://github.com/mahyarnajibi/FreeAdversarialTraining)], **(FreeAT)**.
 
