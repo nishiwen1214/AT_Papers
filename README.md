@@ -61,6 +61,6 @@ This is a paper list about **Adversarial training** for neural network models.
 
     *Jingfeng Zhang, Xilie Xu, Bo Han, Gang Niu, Lizhen Cui, Masashi Sugiyama, Mohan Kankanhalli*, ICML 2020.
     
- 3. [**On the Convergence and Robustness of Adversarial Training**]
+ 3. [**On the Convergence and Robustness of Adversarial Training**](http://proceedings.mlr.press/v97/wang19i/wang19i.pdf)
 
     *Yisen Wang, Xingjun Ma, James Bailey, Jinfeng Yi, Bowen Zhou, Quanquan Gu*, ICML 2019.
