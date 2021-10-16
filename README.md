@@ -95,5 +95,9 @@ This is a paper list about **Adversarial training** for neural network models. N
 
      *Geon Yeong Park, Sang Wan Lee*, ICLR 2021.
     
+  10. [**Rumor Detection on Social Media with Hierarchical Adversarial Training**](https://arxiv.org/pdf/2104.01575.pdf)
+
+     *Shiwen Ni, Jiawen Li, Hung-Yu Kao*, XXXX 2022. 
+    
     
     
