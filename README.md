@@ -1,7 +1,7 @@
 # Adversarial training papers
   
 ![](https://img.shields.io/github/stars/nishiwen1214/AT_Papers?style=flat-square)
-![](https://img.shields.io/badge/PaperNumber-17-brightgreen)
+![](https://img.shields.io/badge/PaperNumber-18-brightgreen)
 
 
 Must-read papers on Adversarial training for neural network models. The paper list is mantained by [Shiwen Ni](https://github.com/nishiwen1214/).
@@ -95,9 +95,9 @@ This is a paper list about **Adversarial training** for neural network models. N
 
      *Geon Yeong Park, Sang Wan Lee*, ICLR 2021.
     
-  10. [**Rumor Detection on Social Media with Hierarchical Adversarial Training**](https://arxiv.org/pdf/2104.01575.pdf)
+ 11. [**Rumor Detection on Social Media with Hierarchical Adversarial Training**](https://arxiv.org/pdf/2110.00425.pdf)
 
-     *Shiwen Ni, Jiawen Li, Hung-Yu Kao*, XXXX 2022. 
+     *Shiwen Ni, Jiawen Li, Hung-Yu Kao*, 2022. 
     
     
     
